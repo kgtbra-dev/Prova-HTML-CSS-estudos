@@ -64,6 +64,7 @@ a {
 #teoria h2 {
     color:rgb(84, 174, 248);
     margin-bottom: 15px;
+    text-transform: uppercase;
 }
 
 #teoria {
@@ -79,6 +80,7 @@ a {
 #teoria h3 {
     color: yellow;
     margin-bottom: 10px;
+    text-transform: uppercase;
 }
 #teoria p {
     margin-bottom: 5px;
