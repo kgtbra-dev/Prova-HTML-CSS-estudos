@@ -1,5 +1,4 @@
 * {
-    padding: 0px;
     margin: 0px;
     box-sizing: border-box;
 }
@@ -60,4 +59,40 @@ a {
 
 #conteudo p {
     color: whitesmoke;
+}
+
+#teoria h2 {
+    color:rgb(84, 174, 248);
+    margin-bottom: 15px;
+}
+
+#teoria {
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: azure;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 30px;
+}
+
+#teoria h3 {
+    color: yellow;
+    margin-bottom: 10px;
+}
+#teoria p {
+    margin-bottom: 5px;
+}
+
+#teoria article {
+    margin-bottom: 40px;
+}
+
+.img-texto {
+    text-align: center;
+}
+.img-texto img {
+    width: 100%;
+    width: 496px;
+    height: 496px;
 }
